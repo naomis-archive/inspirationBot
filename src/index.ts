@@ -24,7 +24,7 @@ Sentry.init({
 (async () => {
   const BOT = new Client({ intents: IntentOptions });
 
-  const hook = new WebhookClient({url: process.env.DEBUG_HOOK as string});
+  const hook = new WebhookClient({ url: process.env.DEBUG_HOOK as string });
 
   const hasEnv = validateEnv();
   if (!hasEnv) {
@@ -46,11 +46,11 @@ Sentry.init({
 
   BOT.on("guildCreate", async (guild) => {
     await hook.send(`Joined guild ${guild.name} - ${guild.id}`);
-  })
+  });
 
   BOT.on("guildDelete", async (guild) => {
     await hook.send(`Left guild ${guild.name} - ${guild.id}`);
-  }))
+  });
 
   BOT.on("interactionCreate", async (interaction) => {
     if (!interaction.isCommand()) {
