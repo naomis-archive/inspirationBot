@@ -90,6 +90,10 @@ export const QuoteList: Quote[] = [
     author: "Gautama Buddha",
   },
   {
+    text: "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
+    author: "Antoine de Saint-Exupery",
+  },
+  {
     text: "Man who catch fly with chopstick, accomplish anything.",
     author: "Mr. Miyagi",
   },
