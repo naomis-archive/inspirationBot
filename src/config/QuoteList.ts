@@ -17,4 +17,12 @@ export const QuoteList: Quote[] = [
     text: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
+  {
+    text: "If you live for the weekend and vacations, your shit is broken",
+    author: "Gary Vaynerchuck",
+  },
+  {
+    text: "Defeat is a state of mind. No one is ever defeated until defeat has been accepted as a reality.",
+    author: "Bruce Lee",
+  },
 ];
