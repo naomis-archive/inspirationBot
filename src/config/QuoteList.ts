@@ -86,7 +86,7 @@ export const QuoteList: Quote[] = [
     author: "Gautama Buddha",
   },
   {
-    text: “Man who catch fly with chopstick, accomplish anything.”,
+    text: "Man who catch fly with chopstick, accomplish anything.",
     author: "Mr. Miyagi",
   },
 ];
