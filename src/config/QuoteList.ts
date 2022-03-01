@@ -17,7 +17,7 @@ export const QuoteList: Quote[] = [
     text: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
-  { 
+  {
     text: "Change is the end result of all true learning.",
     author: "Leo Buscaglia",
   },
