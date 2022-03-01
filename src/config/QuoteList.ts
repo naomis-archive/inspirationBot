@@ -106,7 +106,7 @@ export const QuoteList: Quote[] = [
     author: "Barack Obama",
   },
   {
-    text: "You only live once,but if you do it right, once is enough",
+    text: "You only live once, but if you do it right, once is enough",
     author: "Mae West",
   },
   {
