@@ -102,6 +102,22 @@ export const QuoteList: Quote[] = [
     author: "Winston Churchill",
   },
   {
+    text: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+    author: "Barack Obama",
+  },
+  {
+    text: "Where you are right now doesn't have to determine where you'll end up.",
+    author: "Barack Obama",
+  },
+  {
+    text: "You only live once, but if you do it right, once is enough",
+    author: "Mae West",
+  },
+  {
+    text: "In three words I can sum up everything I've learned about life: it goes on.",
+    author: "Robert Frost",
+  },
+  {
     text: "A really great man is known by three signs... generosity in the design, humanity in the execution, and moderation in success.",
     author: "Otto Von Bismarck",
   },
