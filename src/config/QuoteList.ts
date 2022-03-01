@@ -17,13 +17,10 @@ export const QuoteList: Quote[] = [
     text: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
-
   { 
     text: "Change is the end result of all true learning.",
     author: "Leo Buscaglia",
   },
-
-
   {
     text: "The biggest room in the world is room for improvement. ",
     author: "Helmut Schmidt",
@@ -88,5 +85,4 @@ export const QuoteList: Quote[] = [
     text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
     author: "Gautama Buddha",
   },
-
 ];
