@@ -90,6 +90,10 @@ export const QuoteList: Quote[] = [
     author: "Gautama Buddha",
   },
   {
+    text: "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
+    author: "Antoine de Saint-Exupery",
+  },
+  {
     text: "Man who catch fly with chopstick, accomplish anything.",
     author: "Mr. Miyagi",
   },
@@ -112,5 +116,13 @@ export const QuoteList: Quote[] = [
   {
     text: "In three words I can sum up everything I've learned about life: it goes on.",
     author: "Robert Frost",
+  },
+  {
+    text: "A really great man is known by three signs... generosity in the design, humanity in the execution, and moderation in success.",
+    author: "Otto Von Bismarck",
+  },
+  {
+    text: "I chased my dreams. In the end, find what gets you excited and chase it.",
+    author: "Guion Bluford",
   },
 ];
