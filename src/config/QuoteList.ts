@@ -17,4 +17,8 @@ export const QuoteList: Quote[] = [
     text: "Believe you can and you’re halfway there.",
     author: "Theodore Roosevelt",
   },
+  {
+    text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
+    author: "Gautama Buddha",
+  },
 ];
