@@ -125,4 +125,28 @@ export const QuoteList: Quote[] = [
     text: "I chased my dreams. In the end, find what gets you excited and chase it.",
     author: "Guion Bluford",
   },
+  {
+    text: "Be happy in the moment, that's enough. Each moment is all we need, not more.",
+    author: "Mother Teresa",
+  },
+  {
+    text: "It is never too late to be what you might have been.",
+    author: "George Eliot",
+  },
+  {
+    text: "Life isn't about finding yourself. Life is about creating yourself.",
+    author: "George Bernard Shaw",
+  },
+  {
+    text: "You never fail until you stop trying.",
+    author: "Albert Einstein",
+  },
+  {
+    text: "Instead, pursue the things you love doing, and then do them so well that people can’t take their eyes off you.",
+    author: "Maya Angelou",
+  },
+  {
+    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    author: "Roy T. Bennett",
+  },
 ];
