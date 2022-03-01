@@ -81,4 +81,8 @@ export const QuoteList: Quote[] = [
     text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
     author: "Gautama Buddha",
   },
+  {
+    text: “Man who catch fly with chopstick, accomplish anything.”,
+    author: "Mr. Miyagi",
+  },
 ];
