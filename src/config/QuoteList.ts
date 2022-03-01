@@ -20,7 +20,11 @@ export const QuoteList: Quote[] = [
   {
     text: "Don't be impressed by money, followers, degrees, and titles.\n Be impressed by kindness, integrity, humility, and generosity.",
     author: "Motivational Quotes",
-    },
+  },
+  {
+    text: "Change is the end result of all true learning.",
+    author: "Leo Buscaglia",
+  },
   {
     text: "The biggest room in the world is room for improvement. ",
     author: "Helmut Schmidt",
