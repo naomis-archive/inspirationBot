@@ -89,4 +89,8 @@ export const QuoteList: Quote[] = [
     text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
     author: "Gautama Buddha",
   },
+  {
+    text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    author: "Winston Churchill",
+  },
 ];
