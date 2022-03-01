@@ -18,6 +18,10 @@ export const QuoteList: Quote[] = [
     author: "Theodore Roosevelt",
   },
   {
+    text: "Don't be impressed by money, followers, degrees, and titles.\n Be impressed by kindness, integrity, humility, and generosity.",
+    author: "Motivational Quotes",
+  },
+  {
     text: "Change is the end result of all true learning.",
     author: "Leo Buscaglia",
   },
