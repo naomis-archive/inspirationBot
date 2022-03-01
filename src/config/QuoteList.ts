@@ -101,4 +101,12 @@ export const QuoteList: Quote[] = [
     text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     author: "Winston Churchill",
   },
+  {
+    text: "A really great man is known by three signs... generosity in the design, humanity in the execution, and moderation in success.",
+    author: "Otto Von Bismarck",
+  },
+  {
+    text: "I chased my dreams. In the end, find what gets you excited and chase it.",
+    author: "Guion Bluford",
+  },
 ];
