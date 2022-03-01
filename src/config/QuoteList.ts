@@ -18,6 +18,14 @@ export const QuoteList: Quote[] = [
     author: "Theodore Roosevelt",
   },
   {
+    text: "Don't be impressed by money, followers, degrees, and titles.\n Be impressed by kindness, integrity, humility, and generosity.",
+    author: "Motivational Quotes",
+  },
+  {
+    text: "Change is the end result of all true learning.",
+    author: "Leo Buscaglia",
+  },
+  {
     text: "The biggest room in the world is room for improvement. ",
     author: "Helmut Schmidt",
   },
@@ -84,5 +92,13 @@ export const QuoteList: Quote[] = [
   {
     text: "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
     author: "Antoine de Saint-Exupery",
+  },
+  {
+    text: "Man who catch fly with chopstick, accomplish anything.",
+    author: "Mr. Miyagi",
+  },
+  {
+    text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    author: "Winston Churchill",
   },
 ];
