@@ -18,7 +18,7 @@ export const QuoteList: Quote[] = [
     author: "Theodore Roosevelt",
   },
   {
-    text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
-    author: "Gautama Buddha",
+    text: "Don't be impressed by money, followers, degrees, and titles.\n Be impressed by kindness, integrity, humility, and generosity.",
+    author: "Motivational Quotes",
   },
 ];
