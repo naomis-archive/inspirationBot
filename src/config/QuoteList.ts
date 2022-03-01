@@ -81,4 +81,8 @@ export const QuoteList: Quote[] = [
     text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
     author: "Gautama Buddha",
   },
+  {
+    text: "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
+    author: "Antoine de Saint-Exupery",
+  },
 ];
