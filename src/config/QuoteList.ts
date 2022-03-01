@@ -18,6 +18,10 @@ export const QuoteList: Quote[] = [
     author: "Theodore Roosevelt",
   },
   {
+    text: "Change is the end result of all true learning.",
+    author: "Leo Buscaglia",
+  },
+  {
     text: "The biggest room in the world is room for improvement. ",
     author: "Helmut Schmidt",
   },
