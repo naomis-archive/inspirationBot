@@ -27,7 +27,7 @@ export const QuoteList: Quote[] = [
   },
   {
     text: "Nothing is a waste of time if you use the experience wisely",
-    author:"Rodin",
+    author: "Rodin",
   },
   {
     text: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart",
