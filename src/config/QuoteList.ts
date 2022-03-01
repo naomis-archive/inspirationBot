@@ -90,6 +90,10 @@ export const QuoteList: Quote[] = [
     author: "Gautama Buddha",
   },
   {
+    text: "Man who catch fly with chopstick, accomplish anything.",
+    author: "Mr. Miyagi",
+  },
+  {
     text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     author: "Winston Churchill",
   },
