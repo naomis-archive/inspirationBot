@@ -69,4 +69,16 @@ export const QuoteList: Quote[] = [
     text: "Courage is going from failure to failure without losing enthusiasm",
     author: "Winston Churchill",
   },
+   {
+    text: "If you live for the weekend and vacations, your shit is broken",
+    author: "Gary Vaynerchuck",
+  },
+  {
+    text: "Defeat is a state of mind. No one is ever defeated until defeat has been accepted as a reality.",
+    author: "Bruce Lee",
+  },
+  {
+    text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
+    author: "Gautama Buddha",
+  },
 ];
