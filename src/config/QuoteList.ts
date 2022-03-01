@@ -25,4 +25,8 @@ export const QuoteList: Quote[] = [
     text: "Defeat is a state of mind. No one is ever defeated until defeat has been accepted as a reality.",
     author: "Bruce Lee",
   },
+  {
+    text: "What you think, you become. What you feel, you attract. What you imagine, you create.",
+    author: "Gautama Buddha",
+  },
 ];
