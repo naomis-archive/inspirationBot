@@ -30,6 +30,10 @@ export const QuoteList: Quote[] = [
     author: "Helmut Schmidt",
   },
   {
+    text: "There is no point in being grown up if you can't act a little childlish sometimes.",
+    author: "Doctor Who",
+  },
+  {
     text: "Kind words do not cost much. Yet they accomplish much. ",
     author: "Blaise Pascal",
   },
@@ -178,7 +182,12 @@ export const QuoteList: Quote[] = [
     author: "Dale Carnegie",
   },
   {
+
     text: "The truth is you don’t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.",
     author: "Eminem",
-  }
+  },
+  {
+    text: "Don't count the days, make the days count.",
+    author: "Muhammad Ali",
+  },
 ];
