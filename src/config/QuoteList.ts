@@ -153,4 +153,28 @@ export const QuoteList: Quote[] = [
     text: "And now that you don't have to be perfect, you can be good.",
     author: "John Steinbeck",
   },
+  {
+    text: "Make each day your masterpiece.",
+    author: "John Wooden",
+  },
+  {
+    text: "Success is the sum of small efforts repeated day in and day out.",
+    author: "Robert Collier",
+  },
+  {
+    text: "Never allow a person to tell you 'No' who doesn't have the power to say 'Yes.'",
+    author: "Eleanor Roosevelt",
+  },
+  {
+    text: "Do, or do not. There is no try.",
+    author: "Yoda",
+  },
+  {
+    text: "The true meaning of life is to plant trees under whose shade you do not expect to sit.",
+    author: "Nelson Henderson",
+  },
+  {
+    text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    author: "Dale Carnegie",
+  },
 ];
