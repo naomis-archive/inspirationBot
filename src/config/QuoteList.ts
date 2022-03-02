@@ -202,6 +202,22 @@ export const QuoteList: Quote[] = [
     author: "Danny Thompson",
   },
   {
+    text: "If you think you're gonna crash, accelerate more you idiot",
+    author: "Suga (BTS)",
+  },
+  {
+    text: "Someone else will surely be comforted by looking at your thorns, we are each other's night scenery, each other's moon",
+    author: "RM (BTS)",
+  },
+  {
+    text: "Why do you keep trying to hide under your mask, when even the scars made by your own mistake mark your constellations",
+    author: "BTS",
+  },
+  {
+    text: "The truth is you don’t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.",
+    author: "Eminem",
+  },
+  {
     text: "Don't count the days, make the days count.",
     author: "Muhammad Ali",
   },
