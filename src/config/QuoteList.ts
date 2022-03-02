@@ -177,4 +177,8 @@ export const QuoteList: Quote[] = [
     text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
     author: "Dale Carnegie",
   },
+  {
+    text: "If you admire somebody you should go ahead and tell em, people never get their flowers while they can still smell em.",
+    author: "Kanye West",
+  }
 ];
