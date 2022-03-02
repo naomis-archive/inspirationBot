@@ -177,4 +177,8 @@ export const QuoteList: Quote[] = [
     text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
     author: "Dale Carnegie",
   },
+  {
+    text: "Don't count the days, make the days count.",
+    author: "Muhammad Ali",
+  },
 ];
