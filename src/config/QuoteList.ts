@@ -182,6 +182,18 @@ export const QuoteList: Quote[] = [
     author: "Dale Carnegie",
   },
   {
+    text: "I trained 4 years to run 9 seconds and people give up when they don't see results in 2 months.",
+    author: "Usain Bolt",
+  },
+  {
+    text: "Don't let your happiness depend on something you may lose.",
+    author: "C.S. Lewis",
+  },
+  {
+    text: "Things usually work out in the end. What if they don't? That just means you haven't come to the end yet.",
+    author: "​Jeanette Walls",
+  },
+  {
     text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
     author: "Thomas Edison",
   },
