@@ -30,6 +30,10 @@ export const QuoteList: Quote[] = [
     author: "Helmut Schmidt",
   },
   {
+    text: "There is no point in being grown up if you can't act a little childlish sometimes.",
+    author: "Doctor Who",
+  },
+  {
     text: "Kind words do not cost much. Yet they accomplish much. ",
     author: "Blaise Pascal",
   },
@@ -196,5 +200,9 @@ export const QuoteList: Quote[] = [
   {
     text: "ABL ABB CCC:\n Always Be Learning,\n Always Be Building,\n code Code CODE!",
     author: "Danny Thompson",
+  },
+  {
+    text: "Don't count the days, make the days count.",
+    author: "Muhammad Ali",
   },
 ];
