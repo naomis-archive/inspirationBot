@@ -182,8 +182,8 @@ export const QuoteList: Quote[] = [
     author: "Suga (BTS)",
   },
   {
-   text: "Someone else will surely be comforted by looking at your thorns, we are each other's night scenery, each other's moon",
-   author: "RM (BTS)",
+    text: "Someone else will surely be comforted by looking at your thorns, we are each other's night scenery, each other's moon",
+    author: "RM (BTS)",
   },
   {
     text: "Why do you keep trying to hide under your mask, when even the scars made by your own mistake mark your constellations",
