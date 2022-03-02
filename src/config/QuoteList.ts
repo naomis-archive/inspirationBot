@@ -182,6 +182,26 @@ export const QuoteList: Quote[] = [
     author: "Dale Carnegie",
   },
   {
+    text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "The three great essentials to achieve anything worth while are:\n Hard work, Stick-to-itiveness, and Common sense.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "I have not failed. I've just found 10,000 ways that won't work.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "Just because something doesn't do what you planned it to do doesn't mean it's useless.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "ABL ABB CCC:\n Always Be Learning,\n Always Be Building,\n code Code CODE!",
+    author: "Danny Thompson",
+  },
+  {
     text: "If you think you're gonna crash, accelerate more you idiot",
     author: "Suga (BTS)",
   },
