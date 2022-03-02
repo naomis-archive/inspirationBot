@@ -149,4 +149,8 @@ export const QuoteList: Quote[] = [
     text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
     author: "Roy T. Bennett",
   },
+  {
+    text: "And now that you don't have to be perfect, you can be good.",
+    author: "John Steinbeck",
+  },
 ];
