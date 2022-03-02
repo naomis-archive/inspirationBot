@@ -101,4 +101,80 @@ export const QuoteList: Quote[] = [
     text: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     author: "Winston Churchill",
   },
+  {
+    text: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+    author: "Barack Obama",
+  },
+  {
+    text: "Where you are right now doesn't have to determine where you'll end up.",
+    author: "Barack Obama",
+  },
+  {
+    text: "You only live once, but if you do it right, once is enough",
+    author: "Mae West",
+  },
+  {
+    text: "In three words I can sum up everything I've learned about life: it goes on.",
+    author: "Robert Frost",
+  },
+  {
+    text: "A really great man is known by three signs... generosity in the design, humanity in the execution, and moderation in success.",
+    author: "Otto Von Bismarck",
+  },
+  {
+    text: "I chased my dreams. In the end, find what gets you excited and chase it.",
+    author: "Guion Bluford",
+  },
+  {
+    text: "Be happy in the moment, that's enough. Each moment is all we need, not more.",
+    author: "Mother Teresa",
+  },
+  {
+    text: "It is never too late to be what you might have been.",
+    author: "George Eliot",
+  },
+  {
+    text: "Life isn't about finding yourself. Life is about creating yourself.",
+    author: "George Bernard Shaw",
+  },
+  {
+    text: "You never fail until you stop trying.",
+    author: "Albert Einstein",
+  },
+  {
+    text: "Instead, pursue the things you love doing, and then do them so well that people can’t take their eyes off you.",
+    author: "Maya Angelou",
+  },
+  {
+    text: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    author: "Roy T. Bennett",
+  },
+  {
+    text: "And now that you don't have to be perfect, you can be good.",
+    author: "John Steinbeck",
+  },
+  {
+    text: "Make each day your masterpiece.",
+    author: "John Wooden",
+  },
+  {
+    text: "Success is the sum of small efforts repeated day in and day out.",
+    author: "Robert Collier",
+  },
+  {
+    text: "Never allow a person to tell you 'No' who doesn't have the power to say 'Yes.'",
+    author: "Eleanor Roosevelt",
+  },
+  {
+    text: "Do, or do not. There is no try.",
+    author: "Yoda",
+  },
+  {
+    text: "The true meaning of life is to plant trees under whose shade you do not expect to sit.",
+    author: "Nelson Henderson",
+  },
+  {
+    text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    author: "Dale Carnegie",
+  },
 ];
