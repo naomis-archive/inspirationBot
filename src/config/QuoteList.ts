@@ -182,6 +182,10 @@ export const QuoteList: Quote[] = [
     author: "Dale Carnegie",
   },
   {
+    text: "If you admire somebody you should go ahead and tell em, people never get their flowers while they can still smell em.",
+    author: "Kanye West",
+  },
+  {
     text: "I trained 4 years to run 9 seconds and people give up when they don't see results in 2 months.",
     author: "Usain Bolt",
   },
