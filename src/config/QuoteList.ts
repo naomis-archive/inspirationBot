@@ -30,6 +30,10 @@ export const QuoteList: Quote[] = [
     author: "Helmut Schmidt",
   },
   {
+    text: "There is no point in being grown up if you can't act a little childlish sometimes.",
+    author: "Doctor Who",
+  },
+  {
     text: "Kind words do not cost much. Yet they accomplish much. ",
     author: "Blaise Pascal",
   },
@@ -180,5 +184,57 @@ export const QuoteList: Quote[] = [
   {
     text: "If you admire somebody you should go ahead and tell em, people never get their flowers while they can still smell em.",
     author: "Kanye West",
+  },
+  {
+    text: "I trained 4 years to run 9 seconds and people give up when they don't see results in 2 months.",
+    author: "Usain Bolt",
+  },
+  {
+    text: "Don't let your happiness depend on something you may lose.",
+    author: "C.S. Lewis",
+  },
+  {
+    text: "Things usually work out in the end. What if they don't? That just means you haven't come to the end yet.",
+    author: "​Jeanette Walls",
+  },
+  {
+    text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "The three great essentials to achieve anything worth while are:\n Hard work, Stick-to-itiveness, and Common sense.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "I have not failed. I've just found 10,000 ways that won't work.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "Just because something doesn't do what you planned it to do doesn't mean it's useless.",
+    author: "Thomas Edison",
+  },
+  {
+    text: "ABL ABB CCC:\n Always Be Learning,\n Always Be Building,\n code Code CODE!",
+    author: "Danny Thompson",
+  },
+  {
+    text: "If you think you're gonna crash, accelerate more you idiot",
+    author: "Suga (BTS)",
+  },
+  {
+    text: "Someone else will surely be comforted by looking at your thorns, we are each other's night scenery, each other's moon",
+    author: "RM (BTS)",
+  },
+  {
+    text: "Why do you keep trying to hide under your mask, when even the scars made by your own mistake mark your constellations",
+    author: "BTS",
+  },
+  {
+    text: "The truth is you don’t know what is going to happen tomorrow. Life is a crazy ride, and nothing is guaranteed.",
+    author: "Eminem",
+  },
+  {
+    text: "Don't count the days, make the days count.",
+    author: "Muhammad Ali",
   },
 ];
