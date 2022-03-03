@@ -237,4 +237,8 @@ export const QuoteList: Quote[] = [
     text: "Don't count the days, make the days count.",
     author: "Muhammad Ali",
   },
+  {
+    text: "When I was young, I used to admire intelligent people; as I grow older, I admire kind people.",
+    author: "Abraham Joshua Heschel",
+  },
 ];
