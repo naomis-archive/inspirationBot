@@ -241,4 +241,13 @@ export const QuoteList: Quote[] = [
     text: "When I was young, I used to admire intelligent people; as I grow older, I admire kind people.",
     author: "Abraham Joshua Heschel",
   },
+  {
+    text: "Scars remind us where we've been. They don't have to dictate where we're going.",
+    author:  "David Rossi- Criminal Minds",
+
+  },
+  {
+    text: "Approach all areas of life with a bold enthusiasm this year",
+    author:  "A fortune cookie quote",
+  }
 ];
