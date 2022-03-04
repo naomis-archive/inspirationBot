@@ -241,4 +241,8 @@ export const QuoteList: Quote[] = [
     text: "When I was young, I used to admire intelligent people; as I grow older, I admire kind people.",
     author: "Abraham Joshua Heschel",
   },
+  {
+    text: "You can't wait until life isn't hard anymore... before you decide to be happy",
+    author: "Jane Marczewski 'Nightbirde' ",
+  },
 ];
