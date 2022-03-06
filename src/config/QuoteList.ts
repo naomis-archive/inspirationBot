@@ -246,6 +246,158 @@ export const QuoteList: Quote[] = [
     author: "Jane Marczewski 'Nightbirde' ",
   },
   {
+    text: "Be the chief but never the lord.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "To lead people walk behind them.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Doing nothing is better than being busy doing nothing.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Anticipate the difficult by managing the easy.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who talks more is sooner exhausted.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who is contented is rich.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "The journey of a thousand miles begins with one step.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "An ant on the move does more than a dozing ox",
+    author: "Lao Tzu",
+  },
+  {
+    text: "If you correct your mind, the rest of your life will fall into place.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "If you would take, you must first give, this is the beginning of intelligence.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "At the center of your being you have the answer; you know who you are and you know what you want.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "All difficult things have their origin in that which is easy, and great things in that which is small.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "When you realize there is nothing lacking, the whole world belongs to you.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who conquers others is strong; He who conquers himself is mighty.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who obtains has little. He who scatters has much.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Silence is a source of great strength.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "If you do not change direction, you may end up where you are heading.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "From wonder into wonder existence opens.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who knows himself is enlightened.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Great acts are made up of small deeds.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Nothing is softer or more flexible than water, yet nothing can resist it.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "When I let go of what I am, I become what I might be.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "To see things in the seed, that is genius.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who knows, does not speak. He who speaks, does not know.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who knows others is wise. He who knows himself is enlightened.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "One who is too insistent on his own views, finds few to agree with him.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "He who knows that enough is enough will always have enough.",
+    author: "Lao Tzu",
+  },
+  {
+    text: "Music in the soul can be heard by the universe.",
+    author: "Lao Tzu",
+  },
+  {
     text: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
     author: "Martin Fowler",
   },
