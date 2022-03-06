@@ -242,6 +242,14 @@ export const QuoteList: Quote[] = [
     author: "Abraham Joshua Heschel",
   },
   {
+    text: "Scars remind us where we've been. They don't have to dictate where we're going.",
+    author: "David Rossi- Criminal Minds",
+  },
+  {
+    text: "Approach all areas of life with a bold enthusiasm this year",
+    author: "A fortune cookie quote",
+  },
+  {
     text: "You can't wait until life isn't hard anymore... before you decide to be happy",
     author: "Jane Marczewski 'Nightbirde' ",
   },
