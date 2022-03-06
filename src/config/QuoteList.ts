@@ -275,51 +275,50 @@ export const QuoteList: Quote[] = [
   },
   {
     text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
-    author: "James Cameron"
+    author: "James Cameron",
   },
   {
     text: "In the end, it's not the years in your life that count. It's the life in your years.",
-    author: "Abraham Lincoln"
+    author: "Abraham Lincoln",
   },
   {
     text: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-    author: "Thomas A. Edison"
+    author: "Thomas A. Edison",
   },
   {
     text: "Start where you are. Use what you have. Do what you can.",
-    author: "Arthur Ashe"
+    author: "Arthur Ashe",
   },
   {
     text: "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
-    author: "Swami Vivekananda"
+    author: "Swami Vivekananda",
   },
   {
     text: "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
-    author: "Swami Vivekananda"
+    author: "Swami Vivekananda",
   },
   {
     text: "The only true wisdom is in knowing you know nothing.",
-    author: "Socrates"
+    author: "Socrates",
   },
   {
     text: "What happens is not as important as how you react to what happens.",
-    author: "Ellen Glasgow"
+    author: "Ellen Glasgow",
   },
   {
     text: "When you reach the end of your rope, tie a knot in it and hang on.",
-    author: "Franklin D. Roosevelt"
+    author: "Franklin D. Roosevelt",
   },
   {
     text: "When wealth is lost, nothing is lost; when health is lost, something is lost; when character is lost, all is lost.",
-    author: "Billy Graham"
+    author: "Billy Graham",
   },
   {
     text: "If you fell down yesterday, stand up today.",
-    author: "H. G. Wells"
+    author: "H. G. Wells",
   },
   {
     text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
-    author: "Thomas A. Edison"
-  }
-  
+    author: "Thomas A. Edison",
+  },
 ];
