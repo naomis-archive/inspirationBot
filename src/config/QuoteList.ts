@@ -245,4 +245,80 @@ export const QuoteList: Quote[] = [
     text: "You can't wait until life isn't hard anymore... before you decide to be happy",
     author: "Jane Marczewski 'Nightbirde' ",
   },
+  {
+    text: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    author: "Martin Fowler",
+  },
+  {
+    text: "First, solve the problem. Then, write the code.",
+    author: "John Johnson",
+  },
+  {
+    text: "Experience is the name everyone gives to their mistakes.",
+    author: "Oscar Wilde",
+  },
+  {
+    text: "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    author: "Antoine de Saint-Exupery",
+  },
+  {
+    text: "Simplicity is the soul of efficiency.",
+    author: "Austin Freeman",
+  },
+  {
+    text: "A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, do not touch!",
+    author: "Reddit",
+  },
+  {
+    text: "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
+    author: "Steve Jobs",
+  },
+  {
+    text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    author: "James Cameron",
+  },
+  {
+    text: "In the end, it's not the years in your life that count. It's the life in your years.",
+    author: "Abraham Lincoln",
+  },
+  {
+    text: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    author: "Thomas A. Edison",
+  },
+  {
+    text: "Start where you are. Use what you have. Do what you can.",
+    author: "Arthur Ashe",
+  },
+  {
+    text: "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    author: "Swami Vivekananda",
+  },
+  {
+    text: "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
+    author: "Swami Vivekananda",
+  },
+  {
+    text: "The only true wisdom is in knowing you know nothing.",
+    author: "Socrates",
+  },
+  {
+    text: "What happens is not as important as how you react to what happens.",
+    author: "Ellen Glasgow",
+  },
+  {
+    text: "When you reach the end of your rope, tie a knot in it and hang on.",
+    author: "Franklin D. Roosevelt",
+  },
+  {
+    text: "When wealth is lost, nothing is lost; when health is lost, something is lost; when character is lost, all is lost.",
+    author: "Billy Graham",
+  },
+  {
+    text: "If you fell down yesterday, stand up today.",
+    author: "H. G. Wells",
+  },
+  {
+    text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    author: "Thomas A. Edison",
+  },
 ];
