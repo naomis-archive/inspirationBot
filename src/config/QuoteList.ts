@@ -244,7 +244,6 @@ export const QuoteList: Quote[] = [
   {
     text: "Scars remind us where we've been. They don't have to dictate where we're going.",
     author: "David Rossi- Criminal Minds",
-
   },
   {
     text: "Approach all areas of life with a bold enthusiasm this year",
