@@ -481,7 +481,7 @@ export const QuoteList: Quote[] = [
     text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
     author: "Thomas A. Edison",
   },
-   {
+  {
     text: "Do not expect a harvest from a field that was not plowed.",
     author: "Book of Proverbs",
   },
