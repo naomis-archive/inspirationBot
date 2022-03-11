@@ -485,4 +485,24 @@ export const QuoteList: Quote[] = [
     text: "Do not expect a harvest from a field that was not plowed.",
     author: "Book of Proverbs",
   },
+  {
+    text: "Learning how to be still, to really be still and let life happen—that stillness becomes a radiance.",
+    author: "Morgan Freeman",
+  },
+  {
+    text: "The secret of getting ahead is getting started.",
+    author: "Mark Twain",
+  },
+  {
+    text: "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.",
+    author: "Maya Angelou",
+  },
+  {
+    text: "It’s okay to be a glowstick: Sometimes we have to break before we shine.",
+    author: "Jadah Sellner",
+  },
+  {
+    text: "Keep your face always toward the sunshine – and shadows will fall behind you.",
+    author: "Walt Whitman",
+  },
 ];
