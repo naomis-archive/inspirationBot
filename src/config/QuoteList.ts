@@ -502,6 +502,10 @@ export const QuoteList: Quote[] = [
     author: "Jadah Sellner",
   },
   {
+    text: "Never stop climbing the mountain.",
+    author: "Chris Kirubi",
+  },
+  {
     text: "Keep your face always toward the sunshine – and shadows will fall behind you.",
     author: "Walt Whitman",
   },
