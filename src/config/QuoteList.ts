@@ -513,4 +513,24 @@ export const QuoteList: Quote[] = [
     text: "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
     author: "Mother Teresa",
   },
+  {
+    text: "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    author: "Helen Keller",
+  },
+  {
+    text: "Impossible is a word only to be found in the dictionary of fools.",
+    author: "Napoleon Bonaparte",
+  },
+  {
+    text: "An ounce of doing things is worth a pound of theorizing.",
+    author: "Wallace D. Wattles",
+  },
+  {
+    text: "Real change, enduring change, happens one step at a time.",
+    author: "Ruth Bader Ginsburg",
+  },
+  {
+    text: "There's power in allowing yourself to be known and heard, in owning your unique story, in using your authentic voice.",
+    author: "Michelle Obama",
+  },
 ];
