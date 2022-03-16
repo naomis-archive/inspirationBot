@@ -513,4 +513,12 @@ export const QuoteList: Quote[] = [
     text: "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
     author: "Mother Teresa",
   },
+  {
+    text: "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do, you have to keep moving forward.",
+    author: "Martin Luther King Jr",
+  },
+  {
+    text: "If ye have faith ... nothing shall be impossible unto you",
+    author: "Jesus Christ",
+  },
 ];
