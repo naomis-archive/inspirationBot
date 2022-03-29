@@ -514,6 +514,10 @@ export const QuoteList: Quote[] = [
     author: "Mother Teresa",
   },
   {
+    text: "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do, you have to keep moving forward.",
+    author: "Martin Luther King Jr",
+  },
+  {
     text: "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
     author: "Helen Keller",
   },
