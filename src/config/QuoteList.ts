@@ -518,10 +518,6 @@ export const QuoteList: Quote[] = [
     author: "Martin Luther King Jr",
   },
   {
-    text: "If ye have faith ... nothing shall be impossible unto you",
-    author: "Jesus Christ",
-  },
-  {
     text: "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
     author: "Helen Keller",
   },
