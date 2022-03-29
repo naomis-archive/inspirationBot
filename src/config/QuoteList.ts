@@ -537,4 +537,16 @@ export const QuoteList: Quote[] = [
     text: "There's power in allowing yourself to be known and heard, in owning your unique story, in using your authentic voice.",
     author: "Michelle Obama",
   },
+  {
+    text: "The greatest discovery of all time is that a person can change his future by merely changing his attitude.",
+    author: "Oprah Winfrey",
+  },
+  {
+    text: "If you don't like something, change it. If you can't change it, change your attitude.",
+    author: "Maya Angelou",
+  },
+  {
+    text: "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
+    author: "Dale Carnegie",
+  },
 ];
