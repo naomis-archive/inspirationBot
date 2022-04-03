@@ -549,4 +549,8 @@ export const QuoteList: Quote[] = [
     text: "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
     author: "Dale Carnegie",
   },
+  {
+    text: "I am no longer accepting the things I cannot change. I am changing the things I cannot accept.",
+    author: "Angela Davis",
+  },
 ];
