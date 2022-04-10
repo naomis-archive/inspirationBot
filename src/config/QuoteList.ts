@@ -553,4 +553,18 @@ export const QuoteList: Quote[] = [
     text: "I am no longer accepting the things I cannot change. I am changing the things I cannot accept.",
     author: "Angela Davis",
   },
-];
+  {
+    text: "Sometimes you can't see what you're learning until you come out the other side.",
+    author: "Wonder Woman",
+  },
+  {
+    text: "Life is not a series of gig lamps symmetrically arranged; \
+	life is a luminous halo, a semitransparent envelope surrounding us \
+	from the beginning of consciousness to the end.",
+    author: "Virginia Woolf",
+  },
+  {
+    text: "Every person you meet is going to want something different from you. The question is: what do you want for yourself?.",
+    author: "Beyonce",
+  },
+]; 
