@@ -553,4 +553,16 @@ export const QuoteList: Quote[] = [
     text: "I am no longer accepting the things I cannot change. I am changing the things I cannot accept.",
     author: "Angela Davis",
   },
+  {
+    text: "All our dreams can come true - if we have the courage to pursue them.",
+    author: "Walt Disney",
+  },
+  {
+    text: "A day will never be anymore than waht you make it.",
+    author: "Josh S Hinds",
+  },
+  {
+    text: "Education is not the filling of a pail, but the lighting of a fire.",
+    author: "William Butler Yeats",
+  },
 ];
