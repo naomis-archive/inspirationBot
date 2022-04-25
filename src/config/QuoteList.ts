@@ -562,7 +562,9 @@ export const QuoteList: Quote[] = [
     author: "Josh S Hinds",
   },
   {
-    text: "Education is not the filling of a pail, but the lighting of a fire.",
-    author: "William Butler Yeats",
+    text: "Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.",
+    author: "Brian Tracy",
   },
 ];
+
+
