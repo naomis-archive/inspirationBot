@@ -566,7 +566,7 @@ export const QuoteList: Quote[] = [
     author: "William Butler Yeats",
   },
   {
-    text: "And even when I was close to defeat, I rose to my feet."
+    text: "And even when I was close to defeat, I rose to my feet.",
     author: "Dr. Dre",
   },
 ];
