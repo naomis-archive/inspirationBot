@@ -565,4 +565,8 @@ export const QuoteList: Quote[] = [
     text: "Education is not the filling of a pail, but the lighting of a fire.",
     author: "William Butler Yeats",
   },
+  {
+    text: "And even when I was close to defeat, I rose to my feet.",
+    author: "Dr. Dre",
+  },
 ];
