@@ -569,4 +569,8 @@ export const QuoteList: Quote[] = [
     text: "Develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.",
     author: "Brian Tracy",
   },
+  {
+    text: "And even when I was close to defeat, I rose to my feet.",
+    author: "Dr. Dre",
+  },
 ];
