@@ -15,7 +15,7 @@ export const generateQuoteEmbed = (): MessageEmbed => {
   embed.addField("Author", randomQuote.author);
   embed.setFooter({
     text: "Finding this bot useful? Support us! https://donate.nhcarrigan.com",
-    iconURL: "https://cdn.nhcarrigan.com/profile-transparent.png",
+    iconURL: "https://cdn.nhcarrigan.com/profile.png",
   });
   return embed;
 };
