@@ -1,18 +1,18 @@
-import { MessageEmbed } from "discord.js";
+import { EmbedBuilder } from "discord.js";
 
 import { QuoteList } from "../config/QuoteList";
 
 /**
  * Module to fetch a random quote and generate a Discord embed.
  *
- * @returns {MessageEmbed} A Discord embed with a random quote.
+ * @returns {EmbedBuilder} A Discord embed with a random quote.
  */
-export const generateQuoteEmbed = (): MessageEmbed => {
+export const generateQuoteEmbed = (): EmbedBuilder => {
   const randomQuote = QuoteList[Math.floor(Math.random() * QuoteList.length)];
-  const embed = new MessageEmbed();
+  const embed = new EmbedBuilder();
   embed.setTitle("Daily Inspiration!");
   embed.setDescription(randomQuote.text.replace(/\\n/g, "\n"));
-  embed.addField("Author", randomQuote.author);
+  embed.addFields([{ name: "Author", value: randomQuote.author }]);
   embed.setFooter({
     text: "Finding this bot useful? Support us! https://donate.nhcarrigan.com",
     iconURL: "https://cdn.nhcarrigan.com/profile.png",

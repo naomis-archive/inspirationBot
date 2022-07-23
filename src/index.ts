@@ -56,7 +56,7 @@ Sentry.init({
   });
 
   BOT.on("interactionCreate", async (interaction) => {
-    if (!interaction.isCommand()) {
+    if (!interaction.isChatInputCommand()) {
       return;
     }
     const target = CommandList.find(
