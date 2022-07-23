@@ -8,7 +8,6 @@ import { connectDatabase } from "./database/connectDatabase";
 import InspirationModel from "./database/models/Inspiration";
 import { scheduleInspiration } from "./modules/scheduleInspiration";
 import { validateEnv } from "./modules/validateEnv";
-import { startServer } from "./server/server";
 import { logHandler } from "./utils/logHandler";
 import { registerCommands } from "./utils/registerCommands";
 
@@ -34,8 +33,6 @@ Sentry.init({
   }
 
   await connectDatabase();
-
-  await startServer();
 
   BOT.on("ready", async () => {
     logHandler.log("debug", "Connected to Discord!");
