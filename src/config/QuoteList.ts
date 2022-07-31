@@ -558,9 +558,7 @@ export const QuoteList: Quote[] = [
     author: "Wonder Woman",
   },
   {
-    text: "Life is not a series of gig lamps symmetrically arranged; \
-	life is a luminous halo, a semitransparent envelope surrounding us \
-	from the beginning of consciousness to the end.",
+    text: "Life is not a series of gig lamps symmetrically arranged;\nlife is a luminous halo, a semitransparent envelope surrounding us\nfrom the beginning of consciousness to the end.",
     author: "Virginia Woolf",
   },
   {
