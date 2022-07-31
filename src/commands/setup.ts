@@ -1,5 +1,9 @@
 import { SlashCommandBuilder } from "@discordjs/builders";
-import { GuildBasedChannel } from "discord.js";
+import {
+  ChannelType,
+  GuildBasedChannel,
+  PermissionFlagsBits,
+} from "discord.js";
 
 import InspirationModel from "../database/models/Inspiration";
 import { Command } from "../interfaces/Command";
@@ -40,7 +44,7 @@ export const setup: Command = {
 
       if (
         typeof member.permissions === "string" ||
-        !member.permissions.has("MANAGE_GUILD")
+        !member.permissions.has(PermissionFlagsBits.ManageGuild)
       ) {
         await interaction.editReply(
           "You do not have the permissions to use this command."
@@ -49,7 +53,9 @@ export const setup: Command = {
       }
 
       if (
-        !["GUILD_TEXT", "GUILD_NEWS"].includes(targetChannel.type as string)
+        ![ChannelType.GuildText, ChannelType.GuildNews].includes(
+          targetChannel.type
+        )
       ) {
         await interaction.editReply(
           "The channel you specified is not a text channel."
@@ -57,13 +63,18 @@ export const setup: Command = {
         return;
       }
 
+      const me =
+        guild.members.cache.get(BOT.user?.id || "nope") ||
+        (await guild.members.fetch(BOT.user?.id || "nope"));
+
       if (
-        !guild.me
-          ?.permissionsIn(targetChannel as GuildBasedChannel)
-          .has("SEND_MESSAGES") ||
-        !guild.me
-          ?.permissionsIn(targetChannel as GuildBasedChannel)
-          .has("EMBED_LINKS")
+        !me ||
+        !me
+          .permissionsIn(targetChannel as GuildBasedChannel)
+          .has(PermissionFlagsBits.SendMessages) ||
+        !me
+          .permissionsIn(targetChannel as GuildBasedChannel)
+          .has(PermissionFlagsBits.EmbedLinks)
       ) {
         await interaction.editReply(
           "I do not have the permissions to send messages or embed links in the channel you specified."
