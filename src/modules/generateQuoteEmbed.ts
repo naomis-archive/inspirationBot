@@ -14,7 +14,7 @@ export const generateQuoteEmbed = (): EmbedBuilder => {
   embed.setDescription(randomQuote.text.replace(/\\n/g, "\n"));
   embed.addFields([{ name: "Author", value: randomQuote.author }]);
   embed.setFooter({
-    text: "Finding this bot useful? Support us! https://donate.nhcarrigan.com",
+    text: "Join our server: https://discord.gg/nhcarrigan",
     iconURL: "https://cdn.nhcarrigan.com/profile.png",
   });
   return embed;
