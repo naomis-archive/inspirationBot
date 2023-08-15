@@ -1,8 +1,8 @@
-import { SlashCommandBuilder } from "@discordjs/builders";
 import {
   ChannelType,
   GuildBasedChannel,
   PermissionFlagsBits,
+  SlashCommandBuilder
 } from "discord.js";
 
 import InspirationModel from "../database/models/Inspiration";
