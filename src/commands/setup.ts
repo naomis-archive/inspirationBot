@@ -2,7 +2,7 @@ import {
   ChannelType,
   GuildBasedChannel,
   PermissionFlagsBits,
-  SlashCommandBuilder
+  SlashCommandBuilder,
 } from "discord.js";
 
 import InspirationModel from "../database/models/Inspiration";
