@@ -39,7 +39,7 @@
     "@types/node": "18.19.4",
     "@types/node-schedule": "2.1.5",
     "@types/string-similarity": "4.0.2",
-    "chai": "4.3.10",
+    "chai": "4.4.0",
     "eslint": "8.56.0",
     "mocha": "10.2.0",
     "prettier": "2.8.8",
