@@ -32,12 +32,18 @@ Sentry.init({
     process.exit(1);
   }
 
-  await connectDatabase();
+  await connectDatabase(BOT);
 
   BOT.on("ready", async () => {
     logHandler.log("debug", "Connected to Discord!");
-    await hook.send("Inspiration Bot is now online!");
-    await registerCommands();
+    await hook.send({
+      content: "Inspiration Bot is now online!",
+      username: BOT.user?.username ?? "Inspiration Bot",
+      avatarURL:
+        BOT.user?.displayAvatarURL() ??
+        "https://cdn.nhcarrigan.com/avatars/nhcarrigan.png",
+    });
+    await registerCommands(BOT);
     const schedules = await InspirationModel.find({});
     for (const schedule of schedules) {
       await scheduleInspiration(schedule, BOT);
@@ -45,11 +51,23 @@ Sentry.init({
   });
 
   BOT.on("guildCreate", async (guild) => {
-    await hook.send(`Joined guild ${guild.name} - ${guild.id}`);
+    await hook.send({
+      content: `Joined guild ${guild.name} - ${guild.id}`,
+      username: BOT.user?.username ?? "Inspiration Bot",
+      avatarURL:
+        BOT.user?.displayAvatarURL() ??
+        "https://cdn.nhcarrigan.com/avatars/nhcarrigan.png",
+    });
   });
 
   BOT.on("guildDelete", async (guild) => {
-    await hook.send(`Left guild ${guild.name} - ${guild.id}`);
+    await hook.send({
+      content: `Left guild ${guild.name} - ${guild.id}`,
+      username: BOT.user?.username ?? "Inspiration Bot",
+      avatarURL:
+        BOT.user?.displayAvatarURL() ??
+        "https://cdn.nhcarrigan.com/avatars/nhcarrigan.png",
+    });
   });
 
   BOT.on("interactionCreate", async (interaction) => {

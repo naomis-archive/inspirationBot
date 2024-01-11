@@ -1,4 +1,4 @@
-import { REST, Routes } from "discord.js";
+import { Client, REST, Routes } from "discord.js";
 
 import { CommandList } from "../commands/CommandList";
 
@@ -8,8 +8,10 @@ import { logHandler } from "./logHandler";
 /**
  * Registers the commands either globally or in the home guild, based
  * on the environment set.
+ *
+ * @param {Client} BOT The bot's Discord instance.
  */
-export const registerCommands = async () => {
+export const registerCommands = async (BOT: Client) => {
   try {
     const botId = process.env.BOT_ID as string;
     const homeGuild = process.env.HOME_GUILD as string;
@@ -29,6 +31,6 @@ export const registerCommands = async () => {
       });
     }
   } catch (err) {
-    errorHandler("registerCommands", err);
+    await errorHandler(BOT, "registerCommands", err);
   }
 };

@@ -101,7 +101,7 @@ export const setup: Command = {
       );
       await scheduleInspiration(serverData, BOT);
     } catch (err) {
-      errorHandler("setup command", err);
+      await errorHandler(BOT, "setup command", err);
       await interaction.editReply(
         "Something went wrong! Join our support server for assistance: https://chat.nhcarrigan.com"
       );
