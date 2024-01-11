@@ -33,10 +33,10 @@ export const scheduleInspiration = async (
         );
         await channel.send({ embeds: [generateQuoteEmbed()] });
       } catch (err) {
-        errorHandler("send inspiration", err);
+        await errorHandler(BOT, "send inspiration", err);
       }
     });
   } catch (err) {
-    errorHandler("scheduleInspiration", err);
+    await errorHandler(BOT, "scheduleInspiration", err);
   }
 };
